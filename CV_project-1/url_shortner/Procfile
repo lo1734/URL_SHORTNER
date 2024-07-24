@@ -1,0 +1,1 @@
+web gunicorn url_shotner.wsgi:application -log-file -
