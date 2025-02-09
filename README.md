@@ -27,7 +27,7 @@ The URL Shortener is a web application that allows users to shorten long URLs in
 1. Clone the repository:
 
     
-    git clone https://github.com/yourusername/url-shortener.git
+    git clone https://github.com/lo1734/url-shortener.git
     cd url-shortener
     
 
